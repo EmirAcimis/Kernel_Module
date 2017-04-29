@@ -1,0 +1,1 @@
+cmd_/home/student/Desktop/debe/project.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/student/Desktop/debe/project.ko /home/student/Desktop/debe/project.o /home/student/Desktop/debe/project.mod.o
